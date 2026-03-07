@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+numpy
+opencv-python
+streamlit
+tensorflow
+numpy
+opencv-python
+pillow
