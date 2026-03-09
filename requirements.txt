@@ -1,6 +1,5 @@
 streamlit
-keras
 numpy
 opencv-python-headless
 pillow
-h5py
+onnxruntime
